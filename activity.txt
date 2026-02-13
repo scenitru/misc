@@ -592,3 +592,4 @@
 2026-02-13 20:33:20 - reordered lines
 2026-02-13 20:33:27 - content adjustment
 2026-02-13 20:33:34 - minor rewrite
+2026-02-13 20:33:41 - cleaned structure
