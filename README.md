@@ -248,3 +248,4 @@
 2026-02-13 20:36:00 - updated notes
 2026-02-13 20:36:07 - small fix
 2026-02-13 20:36:14 - minor rewrite
+2026-02-13 20:36:22 - cleaned structure
